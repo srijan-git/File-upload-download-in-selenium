@@ -1,0 +1,21 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled class files
+bin/
+target/
+
+# Maven / Gradle specific
+.mvn/
+.gradle/
+*.jar
+*.war
+
+# OS specific files
+.DS_Store
+Thumbs.db
+# Test output directory
+test-output/
+
